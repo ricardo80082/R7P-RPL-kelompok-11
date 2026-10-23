@@ -1,0 +1,9 @@
+Nama Proyek : Sistem Informasi Pemesaanan Jasa Fotokopi dan Print Berbasis Web
+
+Latar belakanng : 
+
+Permasalahan : 
+
+Tujuan Sistem : 
+
+Ruang Lingkup : 
